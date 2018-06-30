@@ -1,0 +1,6 @@
+D:\UserProfiles\gentlyxu\Documents\SharpDevelop Projects\traylife\traylife\bin\Debug\traylife.exe.config
+D:\UserProfiles\gentlyxu\Documents\SharpDevelop Projects\traylife\traylife\bin\Debug\traylife.exe
+D:\UserProfiles\gentlyxu\Documents\SharpDevelop Projects\traylife\traylife\bin\Debug\traylife.pdb
+D:\UserProfiles\gentlyxu\Documents\SharpDevelop Projects\traylife\traylife\obj\Debug\traylife.csprojResolveAssemblyReference.cache
+D:\UserProfiles\gentlyxu\Documents\SharpDevelop Projects\traylife\traylife\obj\Debug\traylife.exe
+D:\UserProfiles\gentlyxu\Documents\SharpDevelop Projects\traylife\traylife\obj\Debug\traylife.pdb
